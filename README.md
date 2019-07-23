@@ -1,3 +1,3 @@
 #resume
 
-My portfolio: http://liveharshit.github.io
+My portfolio: https://abhigupta19.github.io/resume/
